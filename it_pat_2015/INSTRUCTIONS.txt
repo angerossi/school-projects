@@ -1,0 +1,47 @@
+--------------------------------------------------------------
+                                                          HOW TO PLAY
+--------------------------------------------------------------
+
+
+1. CHOOSE TO PLAY BY YOUR SELF AGAINST THE COMPUTER 
+  (SINGLEPLAYER) OR AGAINST A FRIEND (MULTIPLAYER).
+
+2. ALL PLAYER MUST TYPE A CHARACTER NAME (CHOOSE 
+    ANYTHING,
+    BE CREATIVE!) JUST REMEMBER TO USE LETTERS ONLY. 
+    CHOOSE A CHARACTER:
+
+    - WARRIOR (EASY, RATHER START OFF WITH WARRIOR)
+    - RANGER(MEDIUM)
+    - MAGE (HARD)
+
+    WHEN YOU ARE READY, CLICK ON 'PROCEED TO BATTLE'.
+
+4. CLICK ON 'START BATTLE' TO START THE BATTLE.
+
+5. A TIMER WILL BEGIN COUNTING DOWN. ANSWER THE
+    QUESTION AS QUICK AS YOU CAN TO DEAL DAMAGE!
+    THE QUICKER YOU ANSWER, THE MORE THE DAMAGE.
+
+6. TAKE TURNS ANSWERING QUESTIONS UNTIL A PLAYER 
+    HAS NO HEALTH LEFT.
+
+7. CLICK ON THE BUTTON TO VIEW THE CELEBRATION PAGE
+    BEFORE RETURNING TO THE MAIN MENU.
+
+--------------------------------------------------------------
+                                                            NOTES
+--------------------------------------------------------------
+
+This program is designed to help young children improve their math 
+skills whilst retaining a fun and competitive feel. This program is
+ recommended for children aged 7-10.
+
+Future updates will include:
+-A high score system ( could not be finished due to time constraints)
+-Ingame music ( could not be completed due to internet problems)
+-Further balancing ( Tests need to be completed in order to decide 
+ how the characters need to  be balanced.
+
+
+   
